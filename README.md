@@ -1,10 +1,10 @@
-<video controls src="RAG-project-demo.mp4" title="Title"></video>
+<video controls src="Private PDF Chatbot-demo.mp4" title="Title"></video>
 
 # Private PDF Chatbot
 
 A fully local RAG (Retrieval-Augmented Generation) application. Upload a PDF, ask questions in plain English, and get answers that cite the exact pages they came from. Embeddings, vector search and the language model all run on your own machine, so your documents never leave it.
 
-![Chat interface](docs/chat1.png)
+![Chat interface](docs/chat1.png.png)
 
 ## Why I built it
 
